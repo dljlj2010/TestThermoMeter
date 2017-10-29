@@ -1,0 +1,3 @@
+[submodule "jylib"]
+	path = jylib
+	url = https://github.com/dljlj2010/JianYiLib.git
