@@ -15,6 +15,7 @@ namespace ThermometerExample
         {
             //I add this line 171029:19:58
             //dljlj add
+            ////dljlj 在分支dev上修改
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new ThermometerExample());
