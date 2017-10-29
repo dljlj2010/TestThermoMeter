@@ -13,6 +13,7 @@ namespace ThermometerExample
         [STAThread]
         static void Main()
         {
+            //I add this line 171029:19:58
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new ThermometerExample());

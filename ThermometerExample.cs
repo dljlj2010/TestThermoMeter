@@ -23,7 +23,7 @@ namespace ThermometerExample
     {
         #region Private Fields
         #endregion   //Private Fields
-
+        //I add this test line 19:59
 
         #region Constructor
         public ThermometerExample()
