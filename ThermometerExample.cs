@@ -26,6 +26,7 @@ namespace ThermometerExample
         //I add this test line 19:59
         //dljlj add
         //dljlj 在分支dev上修改
+        //为什么外面提交了里面不认
         #region Constructor
         public ThermometerExample()
         {
