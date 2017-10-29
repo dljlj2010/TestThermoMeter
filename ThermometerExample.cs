@@ -24,6 +24,7 @@ namespace ThermometerExample
         #region Private Fields
         #endregion   //Private Fields
         //I add this test line 19:59
+        //dljlj add
 
         #region Constructor
         public ThermometerExample()
